@@ -22,4 +22,3 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhanu-challabhatla-5a87a61b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu-challabhatla-5a87a61b5" height="30" width="40" /></a>
-![image](https://github.com/bhanureddy18/bhanureddy18/assets/114630431/d056ad43-b4d9-4763-bc5b-c36684e8f2ee)
